@@ -1,5 +1,4 @@
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yudai-22&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contiki9&theme=vue)
 
