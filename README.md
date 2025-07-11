@@ -1,5 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/yudai-22/count.svg)
-
+![Profile views](https://komarev.com/ghpvc/?username=yudai-22)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudai22&theme=vue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudai-22&show_icons=true)
