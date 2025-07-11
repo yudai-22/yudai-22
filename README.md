@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yudai-22&left_color=gray&right_color=blue)
+![Visitor Count](https://profile-counter.glitch.me/yudai-22/count.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudai22&theme=vue)
 
