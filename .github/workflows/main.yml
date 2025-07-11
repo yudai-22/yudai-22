@@ -2,8 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 毎日深夜0時に実行
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# ここから2行を追加します
+permissions:
+  contents: write
 
 jobs:
   build:
