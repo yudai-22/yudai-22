@@ -13,6 +13,7 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=gruvbox" />
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai-22&theme=gruvbox&show_icons=true" />
 </p>
+
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/github-contribution-grid-snake.svg)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22)
