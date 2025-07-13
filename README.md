@@ -12,6 +12,8 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=synthwave&count_private=true" />
 </p>
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={yudai-22}&theme={nord_bright}&exclude={exclude}
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22)
 
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/github-contribution-grid-snake.svg)
