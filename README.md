@@ -7,11 +7,11 @@
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudai22&theme=gruvbox&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudai-22&show_icons=true&count_private=true)
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20yudai-22)](https://github.com/yudai22)
-<p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai22&theme=onedark" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=yudai22&theme=onedark&show_icons=true" />
+
+<p align="left">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai22&theme=gruvbox" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai22&theme=gruvbox&show_icons=true" />
 </p>
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/github-contribution-grid-snake.svg)
 
