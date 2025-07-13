@@ -13,22 +13,43 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        id: snake-gif
+
+      # テーマごとに生成ステップを分ける
+      - name: Generate Default Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: yudai-22
-          # outputsをカンマ区切りの一行形式に変更
-          outputs: >-
-            dist/snake-default.svg,
-            dist/snake-dark.svg?palette=github-dark,
-            dist/snake-gruvbox.svg?palette=gruvbox,
-            dist/snake-dracula.svg?palette=dracula,
-            dist/snake-solarized-dark.svg?palette=solarized-dark
+          outputs: dist/snake-default.svg
 
-      - name: Push snake-gif
+      - name: Generate Dark Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yudai-22
+          outputs: dist/snake-dark.svg?palette=github-dark
+          
+      - name: Generate Gruvbox Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yudai-22
+          outputs: dist/snake-gruvbox.svg?palette=gruvbox
+
+      - name: Generate Dracula Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yudai-22
+          outputs: dist/snake-dracula.svg?palette=dracula
+
+      - name: Generate Solarized Dark Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yudai-22
+          outputs: dist/snake-solarized-dark.svg?palette=solarized-dark
+
+      # 最後に全ての生成ファイルをリポジトリにプッシュする
+      - name: Push all generated files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "Generate Contribution Snake (fix palettes)"
+          git commit -m "Generate Contribution Snake (all themes)"
           git push
