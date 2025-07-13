@@ -12,4 +12,4 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22&theme=dark_lover&no-bg=true)
 
-![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/snake-solarized-dark.svg)
+![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/snake-solarized-dark.svg?v=1)
