@@ -1,8 +1,6 @@
-name: Generate Snake
+name: Generate Snake Theme Test
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,42 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # テーマごとに生成ステップを分ける
-      - name: Generate Default Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yudai-22
-          outputs: dist/snake-default.svg
-
-      - name: Generate Dark Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yudai-22
-          outputs: dist/snake-dark.svg?palette=github-dark
-          
-      - name: Generate Gruvbox Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yudai-22
-          outputs: dist/snake-gruvbox.svg?palette=gruvbox
-
-      - name: Generate Dracula Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yudai-22
-          outputs: dist/snake-dracula.svg?palette=dracula
-
-      - name: Generate Solarized Dark Snake
+      # solarized-darkテーマの生成のみをテストする
+      - name: Generate solarized-dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: yudai-22
           outputs: dist/snake-solarized-dark.svg?palette=solarized-dark
 
-      # 最後に全ての生成ファイルをリポジトリにプッシュする
-      - name: Push all generated files
+      # 生成されたファイルをリポジトリにプッシュする
+      - name: Push generated file
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "Generate Contribution Snake (all themes)"
+          git commit -m "Test solarized-dark theme generation"
           git push
