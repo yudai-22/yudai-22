@@ -10,6 +10,6 @@
   <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22&theme=dark_lover&no-bg=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22&theme=dark_lover&count_private=true&no-bg=true)
 
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/snake-solarized-dark.svg)
