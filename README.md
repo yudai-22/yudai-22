@@ -8,10 +8,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudai-22&theme=nord_bright&count_private=true)
 <p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=nord_bright&count_private=true" />
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai-22&theme=nord_bright&count_private=true&show_icons=true" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai-22&theme=radical&count_private=true&show_icons=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=radical&count_private=true" />
 </p>
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22)
 
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/github-contribution-grid-snake.svg)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22)
