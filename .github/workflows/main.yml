@@ -17,11 +17,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: yudai-22
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-gruvbox.svg?palette=gruvbox
-            dist/snake-dracula.svg?palette=dracula
+          # outputsをカンマ区切りの一行形式に変更
+          outputs: >-
+            dist/snake-default.svg,
+            dist/snake-dark.svg?palette=github-dark,
+            dist/snake-gruvbox.svg?palette=gruvbox,
+            dist/snake-dracula.svg?palette=dracula,
             dist/snake-solarized-dark.svg?palette=solarized-dark
 
       - name: Push snake-gif
@@ -29,5 +30,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "Generate Contribution Snake"
+          git commit -m "Generate Contribution Snake (fix palettes)"
           git push
