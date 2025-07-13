@@ -8,8 +8,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudai22&theme=gruvbox&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yudai-22&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22)](https://github.com/yudai-22/github-readme-stats)
-
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20yudai-22)](https://github.com/yudai22)
+<p align="left"> 
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai22&theme=onedark" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=yudai22&theme=onedark&show_icons=true" />
+</p>
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/github-contribution-grid-snake.svg)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22)
