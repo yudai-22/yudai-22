@@ -11,6 +11,6 @@
   <img src="https://github-readme-stats-ashen-seven-27.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&count_private=true&cache_seconds=3600" />
 </p>
 
-![GitHub Trophy](https://github-readme-stats-ashen-seven-27.vercel.app/?username=yudai-22&theme=dark_lover&count_private=true&no-bg=true&cache_seconds=3600)
+![GitHub Trophy](https://github-profile-trophy.vercel.app.vercel.app/?username=yudai-22&theme=dark_lover&count_private=true&no-bg=true&cache_seconds=3600)
 
 ![snake gif](https://raw.githubusercontent.com/yudai-22/yudai-22/main/dist/snake-solarized-dark.svg)
