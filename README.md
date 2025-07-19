@@ -7,7 +7,7 @@
 <p align="left">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai-22&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=3600" />
   <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&layout=compact&count_private=true&cache_seconds=3600" />
-  <img src="github-readme-stats-ashen-seven-27.vercel.app/api?username=yudai-22&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=3600" />
+  <img src="https://github-readme-stats-ashen-seven-27.vercel.app/api?username=yudai-22&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=3600" />
   <img src="https://github-readme-stats-ashen-seven-27.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&count_private=true&cache_seconds=3600" />
 </p>
 
