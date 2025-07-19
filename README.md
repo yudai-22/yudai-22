@@ -6,7 +6,8 @@
 
 <p align="left">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yudai-22&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=3600" />
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&layout=compact&count_private=true&cache_seconds=10" />
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai-22&theme=shadow_red&layout=compact&count_private=true&cache_seconds=3600" />
+  <img src="https://github-readme-stats-ashen-seven-27.vercel.app/api/top-langs/?username=yudai-22&count_private=true" />
 </p>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudai-22&theme=dark_lover&count_private=true&no-bg=true&cache_seconds=3600)
